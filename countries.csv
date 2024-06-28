@@ -1,0 +1,199 @@
+#code,#name,#area
+AFG,Afghanistan,652230
+ALB,Albania,27398
+DZA,Algeria,2381741
+AND,Andorra,468
+AGO,Angola,1246700
+AIA,Anguilla,91
+ATG,Antigua and Barbuda,442.6
+ARG,Argentina,2736690
+ARM,Armenia,28203
+ABW,Aruba,180
+AUS,Australia,7682300
+AUT,Austria,82445
+AZE,Azerbaijan,82629
+BHR,Bahrain,760
+BGD,Bangladesh,130170
+BRB,Barbados,430
+BLR,Belarus,202900
+BEL,Belgium,30278
+BLZ,Belize,22806
+BEN,Benin,110622
+BMU,Bermuda,54
+BTN,Bhutan,38394
+BOL,Bolivia,1083301
+BIH,Bosnia and Herzegovina,51187
+BWA,Botswana,566730
+BRA,Brazil,8358140
+BRN,Brunei,5265
+BGR,Bulgaria,108489
+BFA,Burkina Faso,273800
+BDI,Burundi,25680
+KHM,Cambodia,176515
+CMR,Cameroon,472710
+CAN,Canada,9093507
+CAF,Central African Republic,622984
+TCD,Chad,1259200
+CHL,Chile,743812
+CHN,China,9326410
+COL,Colombia,1038700
+COM,Comoros,2235
+COK,Cook Islands,236
+CRI,Costa Rica,51060
+CIV,Cote d'Ivoire,318003
+HRV,Croatia,55974
+CUB,Cuba,109820
+CUW,Curacao,444
+CYP,Cyprus,9241
+CZE,Czechia,77247
+DNK,Denmark,42434
+DJI,Djibouti,23180
+DMA,Dominica,751
+DOM,Dominican Republic,48320
+DML,Dreamland,10000
+ECU,Ecuador,276841
+EGY,Egypt,995450
+SLV,El Salvador,20721
+GNQ,Equatorial Guinea,28051
+ERI,Eritrea,101000
+EST,Estonia,42388
+SWZ,Eswatini,17204
+ETH,Ethiopia,1000000
+FRO,Faroe Islands,1393
+FJI,Fiji,18274
+FIN,Finland,303815
+FRA,France,640427
+PYF,French Polynesia,3827
+GAB,Gabon,257667
+GEO,Georgia,69700
+DEU,Germany,348672
+GHA,Ghana,227533
+GRC,Greece,130647
+GRL,Greenland,2166086
+GRD,Grenada,344
+GTM,Guatemala,107159
+GIN,Guinea,245717
+GNB,Guinea-Bissau,28120
+GUY,Guyana,196849
+HTI,Haiti,27560
+HND,Honduras,111890
+HKG,Hong Kong,1073
+HUN,Hungary,89608
+ISL,Iceland,100250
+IND,India,2973193
+IDN,Indonesia,1811569
+IRN,Iran,1531595
+IRQ,Iraq,437367
+IRL,Ireland,68883
+ISR,Israel,20330
+ITA,Italy,294140
+JAM,Jamaica,10831
+JPN,Japan,364485
+JOR,Jordan,88802
+KAZ,Kazakhstan,2699700
+KEN,Kenya,569140
+KIR,Kiribati,811
+KWT,Kuwait,17818
+KGZ,Kyrgyzstan,191801
+LAO,Laos,230800
+LAD,Lala Land,10
+LVA,Latvia,62249
+LBN,Lebanon,10230
+LSO,Lesotho,30355
+LBR,Liberia,96320
+LBY,Libya,1759540
+LIE,Liechtenstein,160
+LTU,Lithuania,62680
+LUX,Luxembourg,2586
+MDG,Madagascar,581540
+MWI,Malawi,94080
+MYS,Malaysia,328657
+MDV,Maldives,298
+MLI,Mali,1220190
+MLT,Malta,316
+MHL,Marshall Islands,181
+MRT,Mauritania,1030700
+MUS,Mauritius,2030
+MEX,Mexico,1943945
+MDA,Moldova,32891
+MNG,Mongolia,1553556
+MNE,Montenegro,13452
+MSR,Montserrat,102
+MAR,Morocco,446300
+MOZ,Mozambique,786380
+NAM,Namibia,823290
+NRU,Nauru,21
+NPL,Nepal,143351
+NLD,Netherlands,33893
+NCL,New Caledonia,18275
+NZL,New Zealand,264537
+NIC,Nicaragua,119990
+NER,Niger,1266700
+NGA,Nigeria,910768
+NOR,Norway,304282
+OMN,Oman,309500
+PAK,Pakistan,770875
+PLW,Palau,459
+PSE,Palestine,6020
+PAN,Panama,74340
+PNG,Papua New Guinea,452860
+PRY,Paraguay,397302
+PER,Peru,1279996
+PHL,Philippines,298170
+POL,Poland,304255
+PRT,Portugal,91470
+QAT,Qatar,11586
+ROU,Romania,229891
+RUS,Russia,16377742
+RWA,Rwanda,24668
+KNA,Saint Kitts and Nevis,261
+LCA,Saint Lucia,606
+SPM,Saint Pierre and Miquelon,242
+VCT,Saint Vincent and the Grenadines,389
+WSM,Samoa,2821
+STP,Sao Tome and Principe,964
+SAU,Saudi Arabia,2149690
+SEN,Senegal,192530
+SRB,Serbia,77474
+SYC,Seychelles,455
+SLE,Sierra Leone,71620
+SGP,Singapore,709.2
+SVK,Slovakia,48105
+SVN,Slovenia,20151
+SLB,Solomon Islands,27986
+SOM,Somalia,627337
+ZAF,South Africa,1214470
+SSD,South Sudan,644329
+ESP,Spain,498980
+LKA,Sri Lanka,64630
+SDN,Sudan,1861484
+SUR,Suriname,156000
+SWE,Sweden,410335
+CHE,Switzerland,39997
+SYR,Syria,183630
+TWN,Taiwan,32260
+TJK,Tajikistan,141510
+TZA,Tanzania,885800
+THA,Thailand,510890
+TGO,Togo,54385
+TON,Tonga,717
+TTO,Trinidad and Tobago,5128
+TUN,Tunisia,155360
+TUR,Turkey,769632
+TKM,Turkmenistan,469930
+TCA,Turks and Caicos Islands,948
+TUV,Tuvalu,26
+UGA,Uganda,197100
+UKR,Ukraine,579330
+ARE,United Arab Emirates,83600
+GBR,United Kingdom,241930
+USA,United States,9148655
+URY,Uruguay,175015
+UZB,Uzbekistan,425400
+VUT,Vanuatu,12189
+VEN,Venezuela,882050
+VNM,Vietnam,310070
+WLF,Wallis and Futuna,142
+YEM,Yemen,527968
+ZMB,Zambia,743398
+ZWE,Zimbabwe,386847
